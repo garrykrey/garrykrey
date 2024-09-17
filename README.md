@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @garrykrey
-- 👀 I’m interested in collaborating with a web programmer on a project.
+- 👀 I’m interested in collaborating with a web programmer on an in progress web project.
 - 🌱 I’m currently learning as I go and taking lots of lumps
 - 📫 you can reach me at garrykrey@gmail.com
 - ⚡ Fun fact: Thomas Jefferson was a stoner.
